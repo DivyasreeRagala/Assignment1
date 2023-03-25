@@ -274,6 +274,11 @@ ul{
         .logo img{
             margin-top: 14%;
        }
+        .second img{
+            margin-left:42%;
+            height:70%;
+           width:350px;
+        }
         .second h3{ 
             margin-left:-635px;
         }
@@ -285,11 +290,6 @@ ul{
         }
         .abc input{
             width:22%
-        }
-        .second img{
-            margin-left:42%;
-            height:70%;
-           width:350px;
         }
         
     }
@@ -311,6 +311,11 @@ ul{
         .logo img{
             margin-top: 22%;
         }
+         .second img{
+            margin-left:40%;
+            height:350px;
+           width:300px;
+       }
         .second h3{ 
             margin-left:-635px;
         }
@@ -323,14 +328,8 @@ ul{
         .abc input{
             width:22%
         }
-        .second img{
-            margin-left:40%;
-            height:350px;
-           weight:300px;
-       }
-        }
         
-    }
+     }
     @media screen and (max-width: 600px){
         .contact button{
             margin-left:77%;
@@ -351,6 +350,11 @@ ul{
             margin-top: 52%;
             margin-left: 10%;
         }
+        .second img{
+            margin-left:56%;
+             height:300px;
+           width:250px;
+        }
         .logo img{
             margin-top: 28%;
         }
@@ -370,13 +374,6 @@ ul{
         .abc input{
             margin-top: 70%;
             width:33%
-        }
-        .second img{
-            margin-left:56%;
-/*             height: 250px;
-            width:200px; */
-             height:300px;
-           width:250px;
         }
         .third h1{
             font-size: 15px;
@@ -402,9 +399,6 @@ ul{
             font-size: 14px;
                 
         }
-/*         #search{
-            height:60%;
-        } */
         .dropdown input{
             margin-top: 115%;
         }
