@@ -273,10 +273,6 @@ ul{
         }
         .logo img{
             margin-top: 14%;
-        }
-        .secong img{
-           height:70%;
-           width:350px;
        }
         .second h3{ 
             margin-left:-635px;
@@ -292,6 +288,8 @@ ul{
         }
         .second img{
             margin-left:42%;
+            height:70%;
+           width:350px;
         }
         
     }
@@ -313,10 +311,6 @@ ul{
         .logo img{
             margin-top: 22%;
         }
-        .second img{
-           height:350px;
-           weight:300px;
-       }
         .second h3{ 
             margin-left:-635px;
         }
@@ -331,6 +325,9 @@ ul{
         }
         .second img{
             margin-left:40%;
+            height:350px;
+           weight:300px;
+       }
         }
         
     }
@@ -360,10 +357,6 @@ ul{
         .second h3{ 
             margin-left:-650px;
             font-size: smaller;
-        }
-        .secong img{
-           height:300px;
-           width:250px;
        }
         .second h2{
             margin-left:-445px; 
@@ -380,8 +373,10 @@ ul{
         }
         .second img{
             margin-left:56%;
-            height: 250px;
-            width:200px;
+/*             height: 250px;
+            width:200px; */
+             height:300px;
+           width:250px;
         }
         .third h1{
             font-size: 15px;
