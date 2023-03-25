@@ -426,7 +426,7 @@ ul{
                 
         }
         .dropdown input{
-            margin-top: 94%;
+            margin-top: 105%;
         }
         .dd1 input{
             margin-left:10% ;
@@ -434,11 +434,11 @@ ul{
             height:38px;
         }
         #heading{
-            margin-top: 70%;
-            margin-left: 10%;
+            margin-top: 77%;
+            margin-left: 11%;
         }
         .logo img{
-            margin-top: 34%;
+            margin-top: 37%;
             margin-left: 39%;
         }
         .second h3{ 
@@ -455,7 +455,7 @@ ul{
             width:100px;
         }
         .abc input{
-            margin-top: 94%;
+            margin-top: 105%;
             width:34%;
             font-size: 10px;
             height:38px;
@@ -483,7 +483,7 @@ ul{
             font-weight:normal ;
         }
         footer{
-            margin-top: -2%;
+            margin-top: -3%;
         }
         .store button{
             font-size: 11px;
@@ -499,91 +499,5 @@ ul{
         }
         
     }
-    /* @media screen and (max-width: 380px){
-        .contact button{
-            margin-left:75%;
-            height: 37px;
-            width:70px;
-            margin-top: -37px;
-            font-size: 9px;
-        }
-        .xyz input{
-            margin-left: 41%;
-            width:121px;
-            height:37px;
-            font-size: 14px;
-                
-        }
-        .dropdown input{
-            margin-top: 97%;
-        }
-        .dd1 input{
-            margin-left:10% ;
-            width:48%;
-            height:38px;
-        }
-        #heading{
-            margin-top: 73%;
-            margin-left: 10%;
-        }
-        .logo img{
-            margin-top: 37%;
-            margin-left: 39%;
-        }
-        .second h3{ 
-            margin-left:-650px;
-            font-size:x-small;
-        }
-        .second h2{
-            margin-left:-496px; 
-            font-size:x-small;
-        }
-        .store button{
-            margin-left:-530px;
-            height:32px;
-            width:100px;
-        }
-        .abc input{
-            margin-top: 94%;
-            width:34%;
-            font-size: 10px;
-            height:38px;
-        }
-        .second img{
-            margin-left:42%;
-            height: 250px;
-            width:250px;
-        }
-        .third h1{
-            font-size: 15px;
-        }
-        .third img{
-            width: 175px;
-            height:143px;
-            margin-left:15px;
-        }
-        .next h3{
-            font-size: 18px;
-            font-weight: bold;
-            margin-top: -8%;
-        }
-        .next h4{
-            font-size: 15px;
-            font-weight:normal ;
-        }
-        footer{
-            margin-top: -2%;
-        }
-        .store button{
-            font-size: 11px;
-        }
-        li{
-            font-size: 11px;
-        }
-        .third1 h2{
-            font-size: medium;
-        }
-        
-    } */
-
+  
     
