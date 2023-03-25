@@ -309,6 +309,10 @@ ul{
         .logo img{
             margin-top: 22%;
         }
+        .second img{
+           height:300px;
+           weight:300px;
+       }
         .second h3{ 
             margin-left:-635px;
         }
