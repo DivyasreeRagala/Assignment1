@@ -1,0 +1,589 @@
+body{
+   margin: 0px;
+   background-color: #d9b6ca;
+   margin-right: 0%;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*Header Section*/
+/* header{
+    height: 60px;
+    /* border: 5px solid hotpink; */
+    /* background-color: #3b2632; */
+    .xyz input{
+        margin-left: 76%;
+        height: 50px;
+        width:200px;
+        border-radius: 10px;
+        font-size: 20px;
+        color: #f77e09;
+        background-color: white;
+    }
+.xyz input:hover{
+         background-color: #f77e09;
+         color: white;
+}
+.contact button{
+    margin-left: 92%;
+    margin-top: -50px;
+    height: 50px;
+    width:100px;
+    border-radius: 10px;
+    color: #f77e09;
+    background-color: white;
+}
+.contact button:hover{
+    background-color: #f77e09;
+    color: white;
+}
+
+/* #brand{
+    float:left;
+    color:white;
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 1%;
+} */
+
+#social{
+    float:right
+}
+
+.socialLogo{
+    height:50px;
+}
+
+
+/*Search Section*/
+#search{
+ /* border:1px solid red;
+ background-color: #d9b6ca; */
+ background-image: url('Eimages/BGimageEat24.jpg');
+ height:100%;
+ width:100%;
+ background-repeat: no-repeat;
+ /* background-size: cover; */
+ background-size: 100% 100%;
+}  
+.logo img{
+     height:130px;
+     width:170px;
+    /* background-color: white;
+    border-radius: 50%;*/
+    margin-left:50%;
+    margin-top:10%; 
+    position: absolute;
+    /* font-size: 90px;
+    animation: revolve 10s infinite;  */
+}
+.dropdown input{
+    height:50px;
+    width: 32%;
+    /* border: 2px solid white; */
+    margin-left: 26%;
+    margin-top: 28%;
+    position: absolute;
+    padding-left: 40px;
+    padding-right: 2px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 10px;
+
+}
+/* .dropdown i{
+    width:25px;
+    height:auto;
+    position: relative;
+    background-color: #fff;
+    left:5px;
+    top:5px;
+} */
+/* i{
+    background-color: aqua;
+    height: 50px;
+    width:50px;
+} */
+.abc input
+{
+    height: 50px;
+    width:17%;
+    margin-left: 63%;
+    margin-top: 28%;
+    position: absolute;
+    border-radius: 10px;
+    background-color: #f77e09;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 32px;
+}
+#heading{
+        font-size:30px;
+        color:white;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: center;
+        color: #fff;
+        font-family:'Times New Roman', Times, serif; 
+        margin-left: 37%;
+        margin-top: 21%;
+        position: absolute;
+}
+.second{
+    background-color: #f6b571;
+    position: relative;
+}
+.second img{
+   margin-left:60%;
+   /* margin-top: 0%; */
+   display: inline-block;
+}
+.second h2{
+    /* position:relative */
+    margin-top: 0px;
+    margin-left: -15%;
+}
+.second h3{
+    margin-left:-77%;
+}
+.store{
+    position: absolute;
+    top:10%;
+    left:650px;
+
+}
+.dropdown i{
+    width:100px;
+    height:100px;
+}
+.store button{
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    font-weight:bold ;
+    margin-left: -15%;
+}
+.store button:hover{
+    background-color: #f77e09;
+    color: white;
+}
+.third{
+    background-color: white;
+    position: relative;
+}
+.third img{
+    width: 270px;
+    height:164px;
+    margin-top: 10%;
+    margin-left: 13%;
+}
+.third1 h2{
+    /* margin-top:20px;
+    margin-left:10px; */
+    padding-top: 60px;
+}
+.text1{
+    position:absolute;
+    top:8%;
+    left:54%;
+}
+.text2{
+    position:absolute;
+    top:20%;
+    left:54%;
+}
+
+.text3{
+    position:absolute;
+    top:35%;
+    left:54%;
+}
+
+.text4{
+    position:absolute;
+    top:52%;
+    left:54%;
+}
+
+.text5{
+    position:absolute;
+    top:68%;
+    left:54%;
+}
+
+.text6{
+    position:absolute;
+    top:81%;
+    left:54%;
+}
+.text7{
+    position:absolute;
+    top:95%;
+    left:54%;
+}
+footer{
+    /* border:5px groove green; */
+    /* position:absolute; */
+    margin-top:-1%;
+    margin-right:0%;
+    background-color: #4e3829;
+    color: #f6b571;
+    text-align: center;
+    position: relative;
+}
+
+.footText{
+    font-size:20px;
+}
+
+.footDiv{
+    /* background-color: #4e3829;
+    color: #f6b571; */
+    display: inline-block;
+    width:32%;
+}
+.noBorder{
+    border:none
+}
+ul{
+    list-style-type: none;
+}
+    @media screen and (max-width: 1450px){
+        body{
+        background-color: palevioletred;
+        }
+        .second img{
+            margin-right:0%;
+        }
+    }
+    @media screen and (max-width: 1300px){
+        body{
+            background-color: palevioletred;
+        }
+        .xyz input{
+            margin-left: 69%;
+                
+        }
+        .contact button{
+            margin-left:90%;
+        }
+        .second img{
+            margin-left:50%;
+        }
+        .second h3{
+            /* position:relative */
+            margin-left:-560px;
+        }
+        .second h2{
+            margin-left:-305px; 
+        }
+        .store button{
+            margin-left:-305px;
+        }
+    }
+    @media screen and (max-width: 1000px){
+        .contact button{
+            margin-left:88%;
+        }
+        .xyz input{
+            margin-left: 62%;
+                
+        }
+        .dropdown input{
+            margin-top: 35%;
+        }
+        #heading{
+            margin-top: 29%;
+            margin-left: 29%;
+        }
+        .logo img{
+            margin-top: 14%;
+        }
+        .second h3{ 
+            margin-left:-635px;
+        }
+        .second h2{
+            margin-left:-380px; 
+        }
+        .store button{
+            margin-left:-380px;
+        }
+        .abc input{
+            width:22%
+        }
+        .second img{
+            margin-left:42%;
+        }
+        
+    }
+    @media screen and (max-width: 800px){
+        .contact button{
+            margin-left:82%;
+        }
+        .xyz input{
+            margin-left: 52%;
+                
+        }
+        .dropdown input{
+            margin-top: 50%;
+        }
+        #heading{
+            margin-top: 39%;
+            margin-left: 29%;
+        }
+        .logo img{
+            margin-top: 22%;
+        }
+        .second h3{ 
+            margin-left:-635px;
+        }
+        .second h2{
+            margin-left:-380px; 
+        }
+        .store button{
+            margin-left:-380px;
+        }
+        .abc input{
+            width:22%
+        }
+        .second img{
+            margin-left:40%;
+        }
+        
+    }
+    @media screen and (max-width: 600px){
+        .contact button{
+            margin-left:77%;
+        }
+        .xyz input{
+            margin-left: 42%;
+            width:160px;
+                
+        }
+        .dropdown input{
+            margin-top: 70%;
+        }
+        .dd1 input{
+            margin-left:12% ;
+            width:47%;
+        }
+        #heading{
+            margin-top: 52%;
+            margin-left: 10%;
+        }
+        .logo img{
+            margin-top: 28%;
+        }
+        .second h3{ 
+            margin-left:-650px;
+            font-size: smaller;
+        }
+        .second h2{
+            margin-left:-445px; 
+            font-size:small;
+        }
+        .store button{
+            margin-left:-515px;
+            height:40px;
+            width:150px;
+        }
+        .abc input{
+            margin-top: 70%;
+            width:33%
+        }
+        .second img{
+            margin-left:56%;
+            height: 250px;
+            width:250px;
+        }
+        .third h1{
+            font-size: 15px;
+        }
+        .third img{
+            width: 200px;
+            height:150px;
+        }
+        
+    }
+    @media screen and (max-width: 480px){
+        .contact button{
+            margin-left:75%;
+            height: 37px;
+            width:70px;
+            margin-top: -37px;
+            font-size: 9px;
+        }
+        .xyz input{
+            margin-left: 37%;
+            width:121px;
+            height:37px;
+            font-size: 14px;
+                
+        }
+        .dropdown input{
+            margin-top: 94%;
+        }
+        .dd1 input{
+            margin-left:10% ;
+            width:48%;
+            height:38px;
+        }
+        #heading{
+            margin-top: 70%;
+            margin-left: 10%;
+        }
+        .logo img{
+            margin-top: 34%;
+            margin-left: 39%;
+        }
+        .second h3{ 
+            margin-left:-650px;
+            font-size:x-small;
+        }
+        .second h2{
+            margin-left:-496px; 
+            font-size:x-small;
+        }
+        .store button{
+            margin-left:-530px;
+            height:32px;
+            width:100px;
+        }
+        .abc input{
+            margin-top: 94%;
+            width:34%;
+            font-size: 10px;
+            height:38px;
+        }
+        .second img{
+            margin-left:59%;
+            height: 242px;
+            width:150px;
+        }
+        .third h1{
+            font-size: 15px;
+        }
+        .third img{
+            width: 175px;
+            height:143px;
+            margin-left:15px;
+        }
+        .next h3{
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: -8%;
+        }
+        .next h4{
+            font-size: 15px;
+            font-weight:normal ;
+        }
+        footer{
+            margin-top: -2%;
+        }
+        .store button{
+            font-size: 11px;
+        }
+        li{
+            font-size: 11px;
+        }
+        .third1 h2{
+            font-size: medium;
+        }
+        #search{
+            width:100%;
+        }
+        
+    }
+    /* @media screen and (max-width: 380px){
+        .contact button{
+            margin-left:75%;
+            height: 37px;
+            width:70px;
+            margin-top: -37px;
+            font-size: 9px;
+        }
+        .xyz input{
+            margin-left: 41%;
+            width:121px;
+            height:37px;
+            font-size: 14px;
+                
+        }
+        .dropdown input{
+            margin-top: 94%;
+        }
+        .dd1 input{
+            margin-left:10% ;
+            width:48%;
+            height:38px;
+        }
+        #heading{
+            margin-top: 70%;
+            margin-left: 10%;
+        }
+        .logo img{
+            margin-top: 34%;
+            margin-left: 39%;
+        }
+        .second h3{ 
+            margin-left:-650px;
+            font-size:x-small;
+        }
+        .second h2{
+            margin-left:-496px; 
+            font-size:x-small;
+        }
+        .store button{
+            margin-left:-530px;
+            height:32px;
+            width:100px;
+        }
+        .abc input{
+            margin-top: 94%;
+            width:34%;
+            font-size: 10px;
+            height:38px;
+        }
+        .second img{
+            margin-left:42%;
+            height: 250px;
+            width:250px;
+        }
+        .third h1{
+            font-size: 15px;
+        }
+        .third img{
+            width: 175px;
+            height:143px;
+            margin-left:15px;
+        }
+        .next h3{
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: -8%;
+        }
+        .next h4{
+            font-size: 15px;
+            font-weight:normal ;
+        }
+        footer{
+            margin-top: -2%;
+        }
+        .store button{
+            font-size: 11px;
+        }
+        li{
+            font-size: 11px;
+        }
+        .third1 h2{
+            font-size: medium;
+        }
+        
+    } */
+
+    
