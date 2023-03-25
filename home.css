@@ -7,13 +7,7 @@ body{
 a{
     text-decoration: none;
 }
-
-/*Header Section*/
-/* header{
-    height: 60px;
-    /* border: 5px solid hotpink; */
-    /* background-color: #3b2632; */
-    .xyz input{
+.xyz input{
         margin-left: 76%;
         height: 50px;
         width:200px;
@@ -71,18 +65,13 @@ a{
 .logo img{
      height:130px;
      width:170px;
-    /* background-color: white;
-    border-radius: 50%;*/
     margin-left:50%;
     margin-top:10%; 
     position: absolute;
-    /* font-size: 90px;
-    animation: revolve 10s infinite;  */
 }
 .dropdown input{
     height:50px;
     width: 32%;
-    /* border: 2px solid white; */
     margin-left: 26%;
     margin-top: 28%;
     position: absolute;
@@ -93,19 +82,6 @@ a{
     border-radius: 10px;
 
 }
-/* .dropdown i{
-    width:25px;
-    height:auto;
-    position: relative;
-    background-color: #fff;
-    left:5px;
-    top:5px;
-} */
-/* i{
-    background-color: aqua;
-    height: 50px;
-    width:50px;
-} */
 .abc input
 {
     height: 50px;
@@ -140,11 +116,9 @@ a{
 }
 .second img{
    margin-left:60%;
-   /* margin-top: 0%; */
    display: inline-block;
 }
 .second h2{
-    /* position:relative */
     margin-top: 0px;
     margin-left: -15%;
 }
@@ -183,8 +157,6 @@ a{
     margin-left: 13%;
 }
 .third1 h2{
-    /* margin-top:20px;
-    margin-left:10px; */
     padding-top: 60px;
 }
 .text1{
@@ -227,8 +199,6 @@ a{
     left:54%;
 }
 footer{
-    /* border:5px groove green; */
-    /* position:absolute; */
     margin-top:-1%;
     margin-right:0%;
     background-color: #4e3829;
