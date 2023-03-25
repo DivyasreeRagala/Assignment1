@@ -357,6 +357,10 @@ ul{
             margin-left:-650px;
             font-size: smaller;
         }
+        .secong img{
+           height:300px;
+           width:250px;
+       }
         .second h2{
             margin-left:-445px; 
             font-size:small;
