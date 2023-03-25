@@ -395,6 +395,9 @@ ul{
             font-size: 14px;
                 
         }
+        #search{
+            height:60%;
+        }
         .dropdown input{
             margin-top: 105%;
         }
