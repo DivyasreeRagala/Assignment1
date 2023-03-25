@@ -275,9 +275,9 @@ ul{
             margin-top: 14%;
        }
         .second img{
-            margin-left:42%;
-            height:70%;
-           width:350px;
+            margin-left:60%;
+            height:50%;
+           width:300px;
         }
         .second h3{ 
             margin-left:-635px;
@@ -291,6 +291,10 @@ ul{
         .abc input{
             width:22%
         }
+         .third1 h2{
+            font-size: 17px;
+       }
+        
         
     }
     @media screen and (max-width: 800px){
@@ -302,19 +306,19 @@ ul{
                 
         }
         .dropdown input{
-            margin-top: 50%;
+            margin-top: 59%;
         }
         #heading{
-            margin-top: 39%;
+            margin-top: 44%;
             margin-left: 29%;
         }
         .logo img{
             margin-top: 22%;
         }
          .second img{
-            margin-left:40%;
-            height:350px;
-           width:300px;
+            margin-left:69%;
+            height:320px;
+           width:186px;
        }
         .second h3{ 
             margin-left:-635px;
@@ -326,8 +330,11 @@ ul{
             margin-left:-380px;
         }
         .abc input{
-            width:22%
+            width:29%
         }
+       .third1 h2{
+            font-size: 17px;
+       }
         
      }
     @media screen and (max-width: 600px){
@@ -351,9 +358,9 @@ ul{
             margin-left: 10%;
         }
         .second img{
-            margin-left:56%;
+            margin-left:58%;
              height:300px;
-           width:250px;
+           width:200px;
         }
         .logo img{
             margin-top: 28%;
@@ -393,14 +400,14 @@ ul{
             font-size: 9px;
         }
         .xyz input{
-            margin-left: 37%;
+            margin-left: 36%;
             width:121px;
             height:37px;
             font-size: 14px;
                 
         }
         .dropdown input{
-            margin-top: 115%;
+            margin-top: 109%;
         }
         .dd1 input{
             margin-left:10% ;
@@ -429,7 +436,7 @@ ul{
             width:100px;
         }
         .abc input{
-            margin-top: 115%;
+            margin-top: 109%;
             width:34%;
             font-size: 10px;
             height:38px;
@@ -440,12 +447,12 @@ ul{
             width:110px;
         }
         .third h1{
-            font-size: 15px;
+            font-size: 12px;
         }
         .third img{
             width: 175px;
             height:143px;
-            margin-left:15px;
+            margin-left:0px;
         }
         .next h3{
             font-size: 18px;
