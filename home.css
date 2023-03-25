@@ -395,11 +395,11 @@ ul{
             font-size: 14px;
                 
         }
-        #search{
+/*         #search{
             height:60%;
-        }
+        } */
         .dropdown input{
-            margin-top: 105%;
+            margin-top: 115%;
         }
         .dd1 input{
             margin-left:10% ;
@@ -407,11 +407,11 @@ ul{
             height:38px;
         }
         #heading{
-            margin-top: 77%;
+            margin-top: 82%;
             margin-left: 11%;
         }
         .logo img{
-            margin-top: 37%;
+            margin-top: 42%;
             margin-left: 39%;
         }
         .second h3{ 
@@ -428,15 +428,15 @@ ul{
             width:100px;
         }
         .abc input{
-            margin-top: 105%;
+            margin-top: 115%;
             width:34%;
             font-size: 10px;
             height:38px;
         }
         .second img{
-            margin-left:59%;
+            margin-left:65%;
             height: 242px;
-            width:150px;
+            width:110px;
         }
         .third h1{
             font-size: 15px;
