@@ -110,6 +110,26 @@ a{
         margin-top: 21%;
         position: absolute;
 }
+#coupon{
+    height:306px;
+    width:750px;
+    background-color:rgb(12, 158, 158) ;
+    z-index:10;
+    position:absolute;
+    background-image:url('cou5.png') ;
+    background-size: cover;
+    background-repeat: no-repeat ;
+    margin-top: -35%;
+    margin-left: 50%;
+    visibility: hidden;
+    border-radius: 10px;
+    border:10px solid rgb(19, 176, 71);
+    border-style: inherit;
+}
+#coupon button{
+    color: red;
+    background-color: aqua;
+}
 .second{
     background-color: #f6b571;
     position: relative;
